@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Shankar, founder of MYSELF.
+- 👋 Hi, I’m Shankar
 - 👀 I’m interested in python.
 - 🌱 I’m currently working on Frappe framework, ERPNext.
